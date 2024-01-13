@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirstMavenProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HibernatePractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java8Features" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyServletProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PDFGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBasicExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBootExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringPractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringbootManyToMany" vcs="Git" />
+  </component>
+</project>

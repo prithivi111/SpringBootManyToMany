@@ -1,0 +1,54 @@
+[
+  {
+    "studentId": 14,
+    "studentName": "ABC",
+    "studRoll": 3,
+    "departments": [
+      {
+        "deptName": "Science"
+      },
+      {
+        "deptName": "Commerce"
+      }
+    ]
+  },
+  {
+    "studentId": 16,
+    "studentName": "NBV",
+    "studRoll": 1,
+    "departments": [
+      {
+        "deptName": "Arts"
+      },
+      {
+        "deptName": "Commerce"
+      }
+    ]
+  },
+  {
+    "studentId": 17,
+    "studentName": "DFG",
+    "studRoll": 12,
+    "departments": [
+      {
+        "deptName": "Science"
+      },
+      {
+        "deptName": "Arts"
+      }
+    ]
+  },
+  {
+    "studentId": 18,
+    "studentName": "TRD",
+    "studRoll": 10,
+    "departments": [
+      {
+        "deptName": "Science"
+      },
+      {
+        "deptName": "Commerce"
+      }
+    ]
+  }
+]
